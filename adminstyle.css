@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(246, 231, 169);
+}
+
+.inputbox{
+    width:300px;
+    height:30px;
+    text-align: center;
+}
+.inputbox{
+    width:300px;
+    height:30px;
+}
+input{
+    margin-top: 10px;
+}
+
+.in{
+    text-align: center;
+}
+.butt{
+    background-color: coral;
+    border:3px solid blueviolet;
+    height:30px;
+    width:80px;
+    border-radius: 4px;
+}
+
+h1 ,h2{
+    text-align: center;
+    background-color: crimson;
+    color: lawngreen;
+}
+#nav{
+    margin-top: 30px;;
+}
+.nav ul{
+    display: inline-block;
+    width:100%;
+}
+
+li{
+    display: inline-block;
+    background-color: cadetblue;
+    font-size: x-large;
+    margin-left:300px;
+    height:40px;
+    width:300px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(52, 99, 5);
+}
+h2{
+    margin:60px;
+}
+form{
+    text-align: center;
+    margin:60px;
+}
